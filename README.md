@@ -15,5 +15,6 @@ In my spare time, you'll find me exploring the great outdoors—whether it's ped
 
 ## Talks
 
-[Make Data Smart](https://event.dnd.no/mds/speaker/alexandra-diem/)) • 30 min 🕙 • Oct 12th 2023 • Oslo 🇳🇴
+[Make Data Smart](https://event.dnd.no/mds/speaker/alexandra-diem/) • 30 min 🕙 • Oct 12th 2023 • Oslo 🇳🇴
+
 [Javazone](https://2023.javazone.no/program/036d16a0-59e0-4001-b7b3-08d30cf01a6a) • 45 min 🕙 • Sep 6th 2023 • Oslo 🇳🇴
