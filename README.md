@@ -13,12 +13,14 @@ I'm a former academic turned data scientist with a passion for data mesh archite
 In my spare time, you'll find me exploring the great outdoors—whether it's pedaling through scenic landscapes on a bike or riding down the slopes on a pair of skis.
 
 
-## Podcasts
+## 🎙️ Podcasts
 
-*Coming soon*
+[Enabling your domains to create maintainable data products](https://daappod.com/data-mesh-radio/sustainable-data-products-alexandra-diem/) • Data Mesh Radio
+
+[Software Development: An Inspiration for Data Management?](https://metadama.buzzsprout.com/1799718/14249173-3-8-software-development-an-inspiration-for-data-management-eng) • MetaDAMA
 
 
-## Talks
+## 🖥️ Talks
 
 [Guest lecture on systems archectures at Kristiania University College](https://www.kristiania.no/en/syllabus/school-of-economics-innovation-and-technology/second-cycle-degree/mh130/ui-programming-and-architectures/) • 60 min 🕙 • Nov 2nd 2023 • Oslo 🇳🇴
 
