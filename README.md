@@ -22,6 +22,8 @@ In my spare time, you'll find me exploring the great outdoors—whether it's ped
 
 ## 🖥️ Talks
 
+[How to succeed with the newest AI technology (no)](https://www.bearingpoint.com/en-no/insights-events/events/seminar-om-praktisk-bruk-av-generativ-ai/) • 30 min 🕙 • Jan 17th 2024 • Oslo 🇳🇴
+
 [Guest lecture on systems archectures at Kristiania University College](https://www.kristiania.no/en/syllabus/school-of-economics-innovation-and-technology/second-cycle-degree/mh130/ui-programming-and-architectures/) • 60 min 🕙 • Nov 2nd 2023 • Oslo 🇳🇴
 
 [Make Data Smart](https://event.dnd.no/mds/speaker/alexandra-diem/) • 30 min 🕙 • Oct 12th 2023 • Oslo 🇳🇴
