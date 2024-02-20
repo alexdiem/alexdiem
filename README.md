@@ -24,6 +24,8 @@ In my spare time, you'll find me exploring the great outdoors—whether it's ped
 
 ## 🖥️ Talks
 
+[Meet Eglev -- our LLM analyst (no)](https://www.youtube.com/live/fLZGCKw06LE?si=am3U8bYbKT8FyHrU&t=2880) • 30 min 🕙 • Feb 15th 2024 • Oslo 🇳🇴
+
 [How to succeed with the newest AI technology (no)](https://www.bearingpoint.com/en-no/insights-events/events/seminar-om-praktisk-bruk-av-generativ-ai/) • 30 min 🕙 • Jan 17th 2024 • Oslo 🇳🇴
 
 [Guest lecture on systems archectures at Kristiania University College](https://www.kristiania.no/en/syllabus/school-of-economics-innovation-and-technology/second-cycle-degree/mh130/ui-programming-and-architectures/) • 60 min 🕙 • Nov 2nd 2023 • Oslo 🇳🇴
