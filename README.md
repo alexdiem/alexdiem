@@ -15,6 +15,8 @@ In my spare time, you'll find me exploring the great outdoors—whether it's ped
 
 ## 🎙️ Podcasts
 
+[Data Governance and AI](https://podcasters.spotify.com/pod/show/mlops/episodes/Data-Governance-and-AI--Alexandra-Diem--212-e2fpfat) • MLOps community
+
 [Enabling your domains to create maintainable data products](https://daappod.com/data-mesh-radio/sustainable-data-products-alexandra-diem/) • Data Mesh Radio
 
 [Software Development: An Inspiration for Data Management?](https://metadama.buzzsprout.com/1799718/14249173-3-8-software-development-an-inspiration-for-data-management-eng) • MetaDAMA
