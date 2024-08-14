@@ -24,14 +24,16 @@ In my spare time, you'll find me exploring the great outdoors—whether it's ped
 
 ## Talks
 
-🎥 [Meet Eglev -- our LLM analyst (no)](https://www.youtube.com/live/fLZGCKw06LE?si=am3U8bYbKT8FyHrU&t=2880) • 30 min 🕙 • Feb 15th 2024 • Oslo 🇳🇴
+🎥 [Rapid LLM Prototyping with OpenAI, Databricks, and Streamlit](https://www.youtube.com/watch?v=avqwwsURunE) • Data+AI Summit • 40 min 🕙 • Jun 13th 2024 • San Francisco 🇺🇸
+
+🎥 [Meet Eglev -- our LLM analyst (no)](https://www.youtube.com/live/fLZGCKw06LE?si=am3U8bYbKT8FyHrU&t=2880) • Seminar @ SINTEF • 30 min 🕙 • Feb 15th 2024 • Oslo 🇳🇴
 
 [How to succeed with the newest AI technology (no)](https://www.bearingpoint.com/en-no/insights-events/events/seminar-om-praktisk-bruk-av-generativ-ai/) • 30 min 🕙 • Jan 17th 2024 • Oslo 🇳🇴
 
 [Guest lecture on systems archectures at Kristiania University College](https://www.kristiania.no/en/syllabus/school-of-economics-innovation-and-technology/second-cycle-degree/mh130/ui-programming-and-architectures/) • 60 min 🕙 • Nov 2nd 2023 • Oslo 🇳🇴
 
-[Make Data Smart](https://event.dnd.no/mds/speaker/alexandra-diem/) • 30 min 🕙 • Oct 12th 2023 • Oslo 🇳🇴
+[DevOps revolutionised software engineering. It's time to revolutionise data.](https://event.dnd.no/mds/speaker/alexandra-diem/) • Make Data Smart • 30 min 🕙 • Oct 12th 2023 • Oslo 🇳🇴
 
-🎥 [Javazone](https://2023.javazone.no/program/036d16a0-59e0-4001-b7b3-08d30cf01a6a) • 45 min 🕙 • Sep 6th 2023 • Oslo 🇳🇴
+🎥 [DevOps revolutionised software engineering. It's time to revolutionise data.](https://2023.javazone.no/program/036d16a0-59e0-4001-b7b3-08d30cf01a6a) • Javazone • 45 min 🕙 • Sep 6th 2023 • Oslo 🇳🇴
 
 [Data Mesh in Practice](https://pages.avanade.com/2023-01-17-Data-Mesh-Event_Registration-enno.html) • 30 min 🕙 • Jan 17th 2023 • Oslo 🇳🇴
